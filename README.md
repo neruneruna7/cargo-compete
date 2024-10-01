@@ -9,6 +9,7 @@
 
 [日本語](https://github.com/qryxip/cargo-compete/blob/master/README-ja.md)
 
+
 A Cargo subcommand for competitive programming.
 
 Supports AtCoder, Codeforces, and yukicoder.
